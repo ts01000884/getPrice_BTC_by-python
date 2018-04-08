@@ -1,27 +1,27 @@
-1523162602825	geckodriver	INFO	geckodriver 0.20.0
-1523162602833	geckodriver	INFO	Listening on 127.0.0.1:3112
-1523162605843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UKA\\AppData\\Local\\Temp\\rust_mozprofile.uCqyrGUIapMe"
-1523162606416	Marionette	INFO	Enabled via --marionette
-1523162607744	Marionette	INFO	Listening on port 3120
-1523162607862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523166152539	geckodriver	INFO	geckodriver 0.20.0
+1523166152549	geckodriver	INFO	Listening on 127.0.0.1:5586
+1523166155554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UKA\\AppData\\Local\\Temp\\rust_mozprofile.apPZFhh9Sy3a"
+1523166156138	Marionette	INFO	Enabled via --marionette
+1523166157526	Marionette	INFO	Listening on port 5594
+1523166157598	Marionette	WARN	TLS certificate errors will be ignored for this session
 Unable to read VR Path Registry from C:\Users\UKA\AppData\Local\openvr\openvrpaths.vrpath
-[Child 1820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 1820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 Unable to read VR Path Registry from C:\Users\UKA\AppData\Local\openvr\openvrpaths.vrpath
-[Child 4808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-[Child 4808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
-Unable to read VR Path Registry from C:\Users\UKA\AppData\Local\openvr\openvrpaths.vrpath
-[Child 17864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
 Unable to read VR Path Registry from C:\Users\UKA\AppData\Local\openvr\openvrpaths.vrpath
-[GPU 17192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
 Unable to read VR Path Registry from C:\Users\UKA\AppData\Local\openvr\openvrpaths.vrpath
-1523162616059	geckodriver::marionette	ERROR	Failed to stop browser process
-s\UKA\AppData\Local\openvr\openvrpaths.vrpath
-1523162602746	geckodriver::marionette	ERROR	Failed to stop browser process
-ath Registry from C:\Users\UKA\AppData\Local\openvr\openvrpaths.vrpath
-1523115424172	geckodriver::marionette	ERROR	Failed to stop browser process
- stop browser process
+1523166166026	geckodriver::marionette	ERROR	Failed to stop browser process
+ping
+Unable to read VR Path Registry from C:\Users\UKA\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523166152454	geckodriver::marionette	ERROR	Failed to stop browser process

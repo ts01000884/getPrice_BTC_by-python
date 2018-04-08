@@ -87,9 +87,9 @@ for tag in div_btc:
 btcprice=kkk.replace(',','')            #彼特必價格
 
 ret=[btcprice,buyprice,sellprice,twdusd]
-sql="INSERT INTO homestead (btc_price_usd, btc_buyprice_twd, btc_sellprice_twd,usd_twd) VALUES ("+btcprice+","+buyprice+","+sellprice+","+twdusd+");"
+sql="INSERT INTO BTC_BTIOEX (btc_price_usd, btc_buyprice_twd, btc_sellprice_twd,usd_twd) VALUES ("+btcprice+","+buyprice+","+sellprice+","+twdusd+");"
 db = pymysql.connect(host="127.0.0.1",
-    user="homestead", passwd="secret", db="coin",port=33060)
+    user="homestead", passwd="secret", db="homestead",port=33060)
 cursor = db.cursor()
 cursor.execute(sql)
 db.commit()
